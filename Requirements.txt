@@ -1,0 +1,18 @@
+# Core dependencies
+streamlit==1.41.1
+pydantic==2.9.2
+python-dotenv==1.0.1
+
+# Browser automation
+browser-use-sdk==3.11.3
+
+# Web requests
+requests==2.32.3
+urllib3==2.2.3
+
+# Data processing
+pandas==2.2.1
+numpy==1.26.4
+
+# Utilities
+typing-extensions==4.12.2
